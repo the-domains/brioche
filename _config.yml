@@ -1,7 +1,7 @@
 name: Brioche
 favicon: null
-layout_spectrum: 0.11681657540611923
-typography_spectrum: 0.457460084464401
+layout_spectrum: 0.23554
+typography_spectrum: 0.73554
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#1c1d1b'
+    - '#fefefe'
+    - '#000000'
+    - '#959595'
+    - '#5d5d5d'
   brandStrength: 0.17167197982780635
   lightness: 0.8959000788163394
   saturation: 0.6327113925945014
